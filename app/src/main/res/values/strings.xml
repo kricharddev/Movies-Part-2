@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="movie_details">Movie Info</string>
+    <string name="ratingOf10">out of 10</string>
+    <string name="release_date">Release Date</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="remove">Remove</string>
+    <string name="delete_dialog_msg">Are you sure you want to remove from Favorites?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_product_successful">Movie Deleted Successfully</string>
+    <string name="editor_delete_product_failed">Unfavorite Movie Failed!</string>
+    <string name="favorite_activity">Favorite Movies</string>
+    <string name="reviews">Reviews:</string>
+    <string name="insert_movie_failed">Unable to Add Movie to Favorites</string>
+    <string name="insert_movie_successful">Movie Added to Favorites!</string>
+    <string name="delete_movie_failed">Failed to Delete Movie!</string>
+    <string name="delete_movie_successful">Movie Successfully Deleted!</string>
+</resources>
